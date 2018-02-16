@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\bin\Debug\MovingObject.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\bin\Debug\MovingObject.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\bin\Debug\MovingObject.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.frmMovingObject.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\MovingObject\MovingObject\obj\Debug\MovingObject.pdb
